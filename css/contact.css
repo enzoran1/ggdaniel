@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.header_image{
+    background-image: url(conctact-yoga.jpg);
+
+}
+
+.corp_contact{
+    display: flex;
+    justify-content: space-around;
+    height: 400px;
+    background: rgb(0,107,135);
+    background: linear-gradient(90deg, rgba(0,107,135,1) 0%, rgba(59,155,163,1) 35%, rgba(118,202,191,1) 100%);
+    text-align: center;
+    font-size: 150%;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+
+
+.corp_contact img{
+    margin-top: 80px;
+    margin-bottom: 15px;
+
+}
+
+.corp_contact p{
+    width: 400px;
+  
+  word-wrap: break-word; 
+  margin-top: 15px;
+}
+
+
+.contact_map{
+    display: flex;
+    justify-content: space-between;
+    background: rgb(0,107,135);
+    background: linear-gradient(90deg, rgba(0,107,135,1) 0%, rgba(59,155,163,1) 35%, rgba(118,202,191,1) 100%);
+
+}
+.contact_map img{
+    border-radius: 10% / 50%;
+    margin: 5px;
+    margin-bottom: 50px;
+    border: thick double #1bccbd;
+}
+.contact_map iframe{
+    margin: 5px;
+    margin-bottom: 50px;
+    margin-right: 10px;
+    border-radius: 5px;
+
+    
+}

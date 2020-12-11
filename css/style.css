@@ -1,0 +1,164 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+.header_image{
+  background-image: url(woman-3053492_1280.jpg);}
+
+
+
+
+
+
+  
+.corp_logo {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 150px;
+    padding-bottom: 100px;
+    
+
+}
+
+
+.corp_logo p{
+    width: 350px;
+    
+    word-wrap: break-word;
+   
+    
+}
+.corp_logo h2{
+  width: 300px;
+  
+  word-wrap: break-word; 
+  
+}
+
+.corp1 h2 {
+    margin-top: 20px;
+    color: #0a89ab;
+    font-family:'Roboto', sans-serif;
+    font-size: 195%;
+    letter-spacing: 1.2px;
+}
+.corp1 p{
+    text-align: justify;
+    margin-top: 20px;
+    color: #727f82;
+    font-family:'Roboto', sans-serif ;
+    font-size: large;
+    letter-spacing: 1.5px;
+}
+
+
+
+
+.corp2 h2 {
+  margin-top: 20px;
+  color: #0a89ab;
+  font-family:'Roboto', sans-serif;
+  font-size: 195%;
+  letter-spacing: 1.2px;
+  
+}
+.corp2 p{
+  text-align: justify;
+  margin-top: 20px;
+  color: #727f82;
+  font-family:'Roboto', sans-serif ;
+  font-size: large;
+  letter-spacing: 1.5px;
+}
+
+
+
+.corp3 h2 {
+  margin-top: 20px;
+  color: #0a89ab;
+  font-family:'Roboto', sans-serif;
+  font-size: 195%;
+  
+}
+.corp3 p{
+  text-align: justify;
+  margin-top: 20px;
+  color: #727f82;
+  font-family:'Roboto', sans-serif ;
+  font-size: large;
+  letter-spacing: 1.5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.corp_video{
+  background: rgb(0,107,135);
+  background: linear-gradient(90deg, rgba(0,107,135,1) 0%, rgba(59,155,163,1) 35%, rgba(118,202,191,1) 100%);
+  height: 800px;
+
+  display: flex;
+  justify-content: space-around;
+}
+
+.corp_titre_text{
+  margin-top: 200px;
+}
+
+
+.corp_video h2{
+
+  width: 300px;
+  
+  word-wrap: break-word;
+
+  font-size: 300%;
+  color: white;
+  font-family: 'Roboto', sans-serif ;
+
+  
+  
+
+}
+.corp_video p{
+  width: 450px;
+  
+  word-wrap: break-word;
+  margin-top: 20px;
+  font-size: 150%;
+  color: white;
+  font-family: 'Roboto', sans-serif ;
+  text-align: justify;
+  letter-spacing: .5px;
+
+  
+}
+
+
+.corp_video img{
+  margin-top: 50px;
+  border-radius: 50%;
+}
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+

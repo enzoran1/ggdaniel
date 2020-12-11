@@ -1,0 +1,232 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.header_image{
+    background-image: url(teste2.jpg);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.corp_elise{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+
+.corp_elise img{
+    border-radius: 50%;
+    border: thick double #0a89ab;
+
+    
+}
+
+
+
+
+.corp_elise_titre{
+    margin-top: 100px;
+    font-family:'Roboto', sans-serif ;
+    font-size: 170%;
+}
+
+
+
+.corp_elise_titre h2{
+    margin-bottom: 25px;
+    color: #0a89ab;
+}
+
+.corp_elise_titre p{
+    width: 400px;
+  
+  word-wrap: break-word; 
+
+  text-align: justify;
+  color: #727f82;
+}
+
+.corp_elise_titre span{
+    color:#1bccbd;
+}
+
+
+
+
+
+
+
+.corp_charlotte{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+
+.corp_charlotte img{
+    border-radius: 50%;
+    border: thick double #1bccbd ;
+
+    
+}
+
+.corp_charlotte_titre{
+    margin-top: 100px;
+    font-family:'Roboto', sans-serif ;
+    font-size: 170%;
+}
+
+
+
+.corp_charlotte_titre h2{
+    margin-bottom: 25px;
+    color: #0a89ab;
+}
+
+.corp_charlotte_titre p{
+    width: 400px;
+  
+  word-wrap: break-word; 
+
+  text-align: justify;
+  color: #727f82;
+}
+
+.corp_charlotte_titre span{
+    color:#1bccbd;
+}
+
+
+
+
+
+
+.corp_camille{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.corp_camille img{
+    border-radius: 50%;
+    border: thick double #0a89ab;
+
+    
+}
+
+
+
+
+.corp_camille_titre{
+    margin-top: 100px;
+    font-family:'Roboto', sans-serif ;
+    font-size: 170%;
+}
+
+
+
+.corp_camille_titre h2{
+    margin-bottom: 25px;
+    color: #0a89ab;
+}
+
+.corp_camille_titre p{
+    width: 400px;
+  
+  word-wrap: break-word; 
+
+  text-align: justify;
+  color: #727f82;
+}
+
+.corp_camille_titre span{
+    color:#1bccbd;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.corp_inscription{
+    background: rgb(0,107,135);
+    background: linear-gradient(90deg, rgba(0,107,135,1) 0%, rgba(59,155,163,1) 35%, rgba(118,202,191,1) 100%);
+    height: 500px;
+  
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .corp_titre_text{
+    margin-top: 70px;
+  }
+  
+  
+  .corp_inscription h2{
+  
+    width: 300px;
+    
+    word-wrap: break-word;
+  
+    font-size: 300%;
+    color: white;
+    font-family: 'Roboto', sans-serif ;
+  
+    
+    
+  
+  }
+  .corp_inscription p{
+    width: 450px;
+    
+    word-wrap: break-word;
+    margin-top: 20px;
+    font-size: 150%;
+    color: white;
+    font-family: 'Roboto', sans-serif ;
+    text-align: justify;
+    letter-spacing: .5px;
+  
+  }
+  .corp_video{
+      margin-top: 50px;
+  }
+ 
+  .corp_video video{
+    border-radius: 10% / 50%;
+    border: thick double #1bccbd;
+    
+  }
+
+
+  
+
+
+

@@ -1,0 +1,57 @@
+body{
+    background-color: black;
+}
+
+
+h1{
+    font-size: 350%;
+    color: white;
+    font-family: fantasy;
+    text-align: center;
+}
+
+
+.bal{
+    height: 600px;
+    width: 600px;
+    border-radius: 50%;
+    background-image: url(theo-gamory.jpg);
+    background-size: cover;
+    animation: balle 3s infinite;
+    animation-direction: alternate-reverse;
+
+    
+}
+
+.cont{
+    height: 200px;
+    width: 100px;
+    text-align: center;
+   
+    
+    
+}
+
+@keyframes balle{
+    0%{
+        transform: translateX(200px);
+    }
+    10% {
+        transform: translatey(200px);
+    }
+    20%{
+        transform: translateX(300px);
+    }
+    30%{
+        transform: rotateX(160deg);
+    }
+    40%{
+        transform: translateX(500px);
+    }
+    70%{
+        transform: translateY(500px);
+    }
+    100%{
+        transform: translateX(600px);
+    }
+}

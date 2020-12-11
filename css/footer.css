@@ -1,0 +1,53 @@
+.footer_yoga{
+    height: 200px;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+.footer_yoga h3{
+    font-size: xx-large;
+    letter-spacing: .8px;
+    font-family: 'Roboto', sans-serif;
+    color: #0a89ab;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    
+
+}
+
+
+.footer_yoga p{
+    font-size: larger;
+    font-family: 'Roboto', sans-serif;
+    color: #727f82;
+
+}
+
+#tel{
+    margin-bottom: 5px;
+}
+#mail{
+    margin-bottom: 5px;
+}
+
+.footer_icone a{
+    margin-right: 10px;
+
+}
+
+.footer_logo{
+    font-family: 'Roboto', sans-serif ;
+    font-size: xx-large;
+    margin-top: 50px;
+    color: #0a89ab;
+}
+
+.footer_icone img {
+    opacity: .75;
+}
+div.footer_icone img:hover{
+    opacity: 1;
+
+}
